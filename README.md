@@ -27,23 +27,5 @@ A modern CRM / Client Management Dashboard UI designed for salon owners to manag
 Dashboard🏠
 ![Dashboard](dashboard.png)
 
-Appointments📆
-![Appointments](appointments.png)
-
 Clients🧒👧
 ![Clients](clients.png)
-
-Stylists💇
-![Stylists](stylists.png)
-
-Schedules🗓️
-![Schedule](schedule.png)
-
-Payments💰
-![Payments](payments.png)
-
-Reviews⭐
-![Reviews](reviews.png)
-
-Policy
-![Policy](policy.png)
