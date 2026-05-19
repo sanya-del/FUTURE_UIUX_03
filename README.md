@@ -28,7 +28,7 @@ Dashboard🏠
 ![Dashboard](dashboard.png)
 
 Appointments
-![Appointments](appointments.jpeg)
+![Appointments](appointments.png)
 
 
 Clients🧒👧
