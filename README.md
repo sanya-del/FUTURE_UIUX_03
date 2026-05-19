@@ -29,7 +29,7 @@ Dashboard🏠
 
 Appointments
 
-![Appointments](WhatsApp Image 2026-05-19 at 12 59 30 PM.jpeg)
+![Appointments](Appointments.jpeg)
 
 
 Clients🧒👧
