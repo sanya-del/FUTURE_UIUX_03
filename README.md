@@ -33,3 +33,6 @@ Appointments
 
 Clients🧒👧
 ![Clients](clients.png)
+
+Schedules
+![Schedules](schedules.jpeg)
