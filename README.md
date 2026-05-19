@@ -29,7 +29,7 @@ Dashboard🏠
 
 Appointments
 
-![Appointments](Appointments.jpeg)
+![Appointments](appointments.jpeg)
 
 
 Clients🧒👧
