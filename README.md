@@ -27,8 +27,6 @@ A modern CRM / Client Management Dashboard UI designed for salon owners to manag
 Dashboard🏠
 ![Dashboard](dashboard.png)
 
-Payments
-![Payments](payments.jpg)
 
 
 Clients🧒👧
