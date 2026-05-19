@@ -28,7 +28,6 @@ Dashboard🏠
 ![Dashboard](dashboard.png)
 
 Appointments
-
 ![Appointments](appointments.jpeg)
 
 
